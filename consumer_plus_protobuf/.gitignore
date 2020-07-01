@@ -1,0 +1,47 @@
+.gitignore
+!/.gitignore
+\#*#
+*~
+.swp
+.*.swp
+.swp
+.gwt
+.gwt-tmp
+target
+.classpath
+.externalToolBuilders
+.factorypath
+.project
+.settings
+.springBeans
+.vscode
+.DS_Store
+build.properties
+*.iml
+*.iws
+*.ipr
+.launch
+.*launch
+nb-configuration.xml
+.idea
+dependency-reduced-pom.xml
+npm-debug.log
+yarn-error.log
+/core/web-assets/node_modules
+/features/discovery/activemq-data
+/features/topology-map/org.opennms.features.topology.app/www-test/
+/opennms-alarms/jms-northbounder/activemq-data/
+
+# Ignore Visual Studio Code
+.factorypath
+
+# Ignore Docker/OCI temporary files
+.docker_temp*
+*.oci
+opennms-container/*/rpms/*.repo
+opennms-container/*/rpms/*.rpm
+opennms-container/*/tarball/*.tar.gz
+
+# Python
+*.pyc
+__pycache__
