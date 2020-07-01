@@ -47,7 +47,7 @@ public class Consumer {
 		
 		KafkaConsumer<String, String> consumer = new KafkaConsumer<String, String>(props);
 		
-		List<String> topics = Arrays.asList("OpenNMS.Sink.Events");
+		List<String> topics = Arrays.asList("metrics");
 		consumer.subscribe(topics);
 		
 		try {
