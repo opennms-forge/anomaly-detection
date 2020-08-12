@@ -1,0 +1,41 @@
+New polling period...
+Starting consumer...
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+
+
+
+----------------
+
+New polling period...
+Starting consumer...
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+
+
+
+----------------
+
+New polling period...
+Starting consumer...
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
+polling... (0)
